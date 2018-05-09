@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/perisic/peripherals/RecyclingMain.java" kind="src" path="RECYCLEPLS/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="RECYCLEPLS/src/RecyclingClient/src/cis69mc.jar"/>
+	<classpathentry kind="output" path="RECYCLEPLS/bin"/>
+</classpath>
